@@ -30,3 +30,5 @@ win.flip()
 core.wait(2)
 
 win.close()
+
+# WIN
